@@ -22,12 +22,12 @@ The app will allow two profiles (The Pet Owner and The Pet Sitter). The feed on 
 ### 1. User Stories
 
 * [x] User logs in to access previous posts and comments.
-* [X] Allows two types of users client and petsitter. 
-* [X] Pet sitters can comment the pictures that the clients post.
-* [X] Includes profile pages for each user
-* [X] Logout and login options for both user types.
-* [X] Send a notification to the client when a pet sitter reponds to a post.
-* [X] Each user has a profile screen.
+* [ ] Allows two types of users client and petsitter. 
+* [ ] Pet sitters can comment the pictures that the clients post.
+* [ ] Includes profile pages for each user
+* [ ] Logout and login options for both user types.
+* [ ] Send a notification to the client when a pet sitter reponds to a post.
+* [ ] Each user has a profile screen.
 
 ### 2. Screen Archetypes 
 
